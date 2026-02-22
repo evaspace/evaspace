@@ -1,16 +1,23 @@
-## Hi there 👋
+# Morgan Pierrefeu
+**Software Engineering Student | Automation & Operational Efficiency**
 
-<!--
-**evaspace/evaspace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools that eliminate repetitive tasks and streamline data processing. Currently pursuing an engineering degree and taking on freelance technical contracts.
 
-Here are some ideas to get you started:
+## 🎯 Objective
+Available for a technical internship or freelance engagement (June – August 2026) in Lyon. Focused on delivering immediate operational value through automation, backend development, and data structuring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Technical Stack
+* **Automation & Scripting:** Python (Selenium, Flask), Bash
+* **Backend & Data:** SQLite, Jinja2, SQL
+* **Systems & Languages:** Linux (Debian), Git, C
+
+## 💻 Featured Projects
+* **Opticars Calculator:** A multi-criteria sorting algorithm built with Python and Flask. Automates ROI and performance calculations across a database of 1500+ vehicles.
+* **Discord Architect Auto:** An automation script engineered to programmatically generate fully functional, pre-configured Discord servers with complex role hierarchies.
+* **Workstation Optimizer:** A suite of Bash scripts designed to automate terminal-based workspace configuration and eliminate redundant manual setup.
+
+## 📈 Experience
+* **Independent Developer (2024 - Present):** Managing end-to-end technical service delivery, from client negotiation to deployment.
+* **Engineering Student (2025 - 2030):** Intensive curriculum focused on advanced algorithms, system architecture, and low-level programming.
+
+📫 **Contact:** [LinkedIn](https://linkedin.com/in/morgan-pierrefeu) | morgan@pierref.eu
