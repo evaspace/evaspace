@@ -1,3 +1,4 @@
+cat << 'EOF' > README.md
 # Morgan Pierrefeu
 **Software Engineering Student | Automation & Operational Efficiency**
 
@@ -7,9 +8,9 @@ I build tools that eliminate repetitive tasks and streamline data processing. Cu
 Available for a technical internship or freelance engagement (June – August 2026) in Lyon. Focused on delivering immediate operational value through automation, backend development, and data structuring.
 
 ## 🛠 Technical Stack
-* **Automation & Scripting:** Python (Selenium, Flask), Bash
-* **Backend & Data:** SQLite, Jinja2, SQL
-* **Systems & Languages:** Linux (Debian), Git, C
+* <img align="center" height="30" src="https://skillicons.dev/icons?i=python,flask,selenium,bash"/> **Automation & Scripting:** Python (Selenium, Flask), Bash
+* <img align="center" height="30" src="https://skillicons.dev/icons?i=sqlite,mysql"/> **Backend & Data:** SQLite, Jinja2, SQL
+* <img align="center" height="30" src="https://skillicons.dev/icons?i=linux,debian,git,c"/> **Systems & Languages:** Linux (Debian), Git, C
 
 ## 💻 Featured Projects
 * **Opticars Calculator:** A multi-criteria sorting algorithm built with Python and Flask. Automates ROI and performance calculations across a database of 1500+ vehicles.
@@ -21,3 +22,4 @@ Available for a technical internship or freelance engagement (June – August 20
 * **Engineering Student (2025 - 2030):** Intensive curriculum focused on advanced algorithms, system architecture, and low-level programming.
 
 📫 **Contact:** [LinkedIn](https://linkedin.com/in/morgan-pierrefeu) | morgan@pierref.eu
+EOF
