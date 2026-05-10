@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Morgan Pierrefeu
 **Software Engineering Student | Automation & Operational Efficiency**
 
@@ -21,5 +20,8 @@ Available for a technical internship or freelance engagement (June – August 20
 * **Independent Developer (2024 - Present):** Managing end-to-end technical service delivery, from client negotiation to deployment.
 * **Engineering Student (2025 - 2030):** Intensive curriculum focused on advanced algorithms, system architecture, and low-level programming.
 
+## My portfolio : 
+* **PIERREF.EU** : [Pierrefeu](https://pierref.eu)
+
 📫 **Contact:** [LinkedIn](https://linkedin.com/in/morgan-pierrefeu) | morgan@pierref.eu
-EOF
+
