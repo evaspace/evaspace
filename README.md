@@ -12,13 +12,12 @@ Available for a technical internship or freelance engagement (June – August 20
 * <img align="center" height="30" src="https://skillicons.dev/icons?i=linux,debian,git,c"/> **Systems & Languages:** Linux (Debian), Git, C
 
 ## 💻 Featured Projects
-* **Opticars Calculator:** A multi-criteria sorting algorithm built with Python and Flask. Automates ROI and performance calculations across a database of 1500+ vehicles.
-* **Discord Architect Auto:** An automation script engineered to programmatically generate fully functional, pre-configured Discord servers with complex role hierarchies.
-* **Workstation Optimizer:** A suite of Bash scripts designed to automate terminal-based workspace configuration and eliminate redundant manual setup.
+* **Opticars Calculator:** A multi-criteria sorting algorithm built with Python and Flask. Automates ROI and performance calculations across a database of 1500+ vehicles.[ Opticars](https://opticars.pierref.eu)
+* **Discord Architect Auto:** An automation script engineered to programmatically generate fully functional, pre-configured Discord servers with complex role hierarchies.[Larchitect](https://larchitect.pierref.eu)
 
 ## 📈 Experience
 * **Independent Developer (2024 - Present):** Managing end-to-end technical service delivery, from client negotiation to deployment.
-* **Engineering Student (2025 - 2030):** Intensive curriculum focused on advanced algorithms, system architecture, and low-level programming.
+* **Engineering Student (2025 - 2031):** Intensive curriculum focused on advanced algorithms, system architecture, and low-level programming.
 
 ## My portfolio : 
 * **PIERREF.EU** : [Pierrefeu](https://pierref.eu)
