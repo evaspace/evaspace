@@ -24,3 +24,14 @@ Available for a technical internship or freelance engagement (June – August 20
 
 📫 **Contact:** [LinkedIn](https://linkedin.com/in/morgan-pierrefeu) | morgan@pierref.eu
 
+# Blockchain Cryptographique
+
+## Dons en Cryptomonnaies
+
+Cliquez sur une adresse pour la copier instantanément dans votre presse-papiers :
+
+### BITCOIN [BTC]
+bc1qu2vwy8ly45f0u07lmsr5p09pnt96v7qasj8d26
+
+### ETHEREUM [ETH / ERC-20]
+0x444E90B95B8367123A449C7D4166297316773f32
