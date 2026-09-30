@@ -1,37 +1,44 @@
-# Morgan Pierrefeu
-**Software Engineering Student | Automation & Operational Efficiency**
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1000&color=f59e0b&width=600&lines=Morgan+Pierrefeu;Software+Engineering+Student;Systems,+Backend,+%26+Automation" alt="Typing SVG" />
+</div>
 
-I build tools that eliminate repetitive tasks and streamline data processing. Currently pursuing an engineering degree and taking on freelance technical contracts.
 
-## 🎯 Objective
-Available for a technical internship or freelance engagement (June – August 2026) in Lyon. Focused on delivering immediate operational value through automation, backend development, and data structuring.
+---
 
-## 🛠 Technical Stack
-* <img align="center" height="30" src="https://skillicons.dev/icons?i=python,flask,selenium,bash"/> **Automation & Scripting:** Python (Selenium, Flask), Bash
-* <img align="center" height="30" src="https://skillicons.dev/icons?i=sqlite,mysql"/> **Backend & Data:** SQLite, Jinja2, SQL
-* <img align="center" height="30" src="https://skillicons.dev/icons?i=linux,debian,git,c"/> **Systems & Languages:** Linux (Debian), Git, C
+### 〉Stack
+* <img align="center" height="26" src="https://skillicons.dev/icons?i=python,flask,fastapi,selenium,bash"/> **Scripting & Automation** 
+* <img align="center" height="26" src="https://skillicons.dev/icons?i=sqlite,postgres,redis,mysql"/> **Databases & Caching** 
+* <img align="center" height="26" src="https://skillicons.dev/icons?i=linux,debian,docker,git,c"/> **Systems & Low-Level**
 
-## 💻 Featured Projects
-* **Opticars Calculator:** A multi-criteria sorting algorithm built with Python and Flask. Automates ROI and performance calculations across a database of 1500+ vehicles.[ Opticars](https://opticars.pierref.eu)
-* **Discord Architect Auto:** An automation script engineered to programmatically generate fully functional, pre-configured Discord servers with complex role hierarchies.[Larchitect](https://larchitect.pierref.eu)
+---
 
-## 📈 Experience
-* **Independent Developer (2024 - Present):** Managing end-to-end technical service delivery, from client negotiation to deployment.
-* **Engineering Student (2025 - 2031):** Intensive curriculum focused on advanced algorithms, system architecture, and low-level programming.
+### 〉Projects
 
-## My portfolio : 
-* **PIERREF.EU** : [Pierrefeu](https://pierref.eu)
+| Project | Core | Description |
+| :--- | :--- | :--- |
+| **[Auriga2Google](https://auriga2google.pierref.eu)** | `Sync Engine` | **400+ active uses**. Bidirectional synchronization between EPITA schedules and Google Calendar. |
+| **[Opticars](https://opticars.pierref.eu)** | `Data / Algo` | Multi-criteria sorting and profitability calculator on a dataset of **5,000+ vehicles** (80 parameters/vehicle). |
+| **[Larchitect](https://larchitect.pierref.eu)** | `Automation` | Automated generation of fully configured Discord servers based on user parameters. |
 
-📫 **Contact:** [LinkedIn](https://linkedin.com/in/morgan-pierrefeu) | morgan@pierref.eu
+---
 
-# Blockchain Cryptographique
+### 〉Experience & Education
+- **Independent Developer (2024 - Present):** Managing end-to-end technical service delivery, from client negotiation to deployment.
+- **EPITA Engineering Student (2025 - 2031):** Advanced algorithms, system architecture, and low-level programming.
 
-## Dons en Cryptomonnaies
+### 〉Links
+- **Portfolio:** [pierref.eu](https://pierref.eu)
+- **Email:** [morgan@pierref.eu](mailto:morgan@pierref.eu)
+- **LinkedIn:** [Morgan Pierrefeu](https://linkedin.com/in/morgan-pierrefeu)
 
-Cliquez sur une adresse pour la copier instantanément dans votre presse-papiers :
+---
 
-### BITCOIN [BTC]
+### 〉Support
+*If my free tools (like Auriga2Google) helped you save time, consider supporting server costs:*
+
+```bash
+# BITCOIN [BTC]
 bc1qu2vwy8ly45f0u07lmsr5p09pnt96v7qasj8d26
 
-### ETHEREUM [ETH / ERC-20]
+# ETHEREUM [ETH / ERC-20]
 0x444E90B95B8367123A449C7D4166297316773f32
